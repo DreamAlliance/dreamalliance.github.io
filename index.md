@@ -10,7 +10,7 @@
 
 ![icomgx](https://dream-alliance.gitee.io/img/members/icomgx.JPG=20x20)[啊泰iCOMgx·成员]()
 
-![pangchicken](https://dream-alliance.gitee.io/img/members/pangchicken.JPG =20x20)[胖鸡酱·成员](https://panzhifei.xyz/)
+![pangchicken](https://dream-alliance.gitee.io/img/members/pangchicken.JPG=20x20)[胖鸡酱·成员](https://panzhifei.xyz/)
 
 ### Application
 
