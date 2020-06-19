@@ -1,37 +1,22 @@
-## Welcome to Dream Alliance!
+## Hello!We are Dream Alliance!
 
-You can use the [editor on GitHub](https://github.com/Dream-Alliance/dream-alliance.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+我们是 Dream Alliance 梦想彼岸联盟
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+一群爱好者的基地
 
-### Markdown
+# Members
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![](https://dream-alliance.gitee.io/img/members/dreamc.JPG)[梦程MI·创始人](https://www.dreamcstudio.cn/)
 
-```markdown
-Syntax highlighted code block
+![](https://dream-alliance.gitee.io/img/members/icomgx.JPG)[啊泰iCOMgx·成员]()
 
-# Header 1
-## Header 2
-### Header 3
+![](https://dream-alliance.gitee.io/img/members/pangchicken.JPG)[胖鸡酱·成员](https://panzhifei.xyz/)
 
-- Bulleted
-- List
+## Application
 
-1. Numbered
-2. List
+发送申请邮件到 1912544842@qq.com
 
-**Bold** and _Italic_ and `Code` text
+## Contact us
 
-[Link](url) and ![Image](src)
-```
+Website:[梦程的小窝](https://www.dreamcstudio.cn)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dream-Alliance/dream-alliance.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
