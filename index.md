@@ -6,11 +6,11 @@
 
 # Members
 
-![alt_text,width="40"](https://dream-alliance.gitee.io/img/members/dreamc.JPG)[梦程MI·创始人](https://www.dreamcstudio.cn/)
+![dreamc](https://dream-alliance.gitee.io/img/members/dreamc.JPG=20x20)[梦程MI·创始人](https://www.dreamcstudio.cn/)
 
-![alt_text,width="40"](https://dream-alliance.gitee.io/img/members/icomgx.JPG)[啊泰iCOMgx·成员]()
+![icomgx](https://dream-alliance.gitee.io/img/members/icomgx.JPG=20x20)[啊泰iCOMgx·成员]()
 
-![alt_text,width="40"](https://dream-alliance.gitee.io/img/members/pangchicken.JPG)[胖鸡酱·成员](https://panzhifei.xyz/)
+![pangchicken](https://dream-alliance.gitee.io/img/members/pangchicken.JPG =20x20)[胖鸡酱·成员](https://panzhifei.xyz/)
 
 ### Application
 
