@@ -12,6 +12,10 @@
 
 ![pangchicken](https://dream-alliance.gitee.io/img/members/pangchicken.JPG){:width="20"} [胖鸡酱·成员](https://panzhifei.xyz/)
 
+# Projects
+
+None
+
 ### Application
 
 发送申请邮件到 1912544842@qq.com
