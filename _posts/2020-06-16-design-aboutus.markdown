@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Stories : Dream Alliance"
+date:   2020-06-16 19:45:31 +0800
+categories: ["design"]
+author: "胖鸡将排骨"
+---
+
 # Hello!We are Dream Alliance!
 
 我们是 Dream Alliance 梦想彼岸联盟
@@ -25,4 +33,3 @@ None
 ### Contact us
 
 Website:[梦程的小窝](https://www.dreamcstudio.cn)
-
