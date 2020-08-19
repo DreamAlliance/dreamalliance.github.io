@@ -24,10 +24,10 @@ markdown: kramdown
 gitalk:
   enable: true #用来做启用判断可以不用
   mint: false # 这里一定要设置成false
-  owner: 'Peter-Zhifei'
+  owner: 'DreamAlliance'
   repo: 'blog_issues' #例：safranyu.github.io
   admin: 'DreamAlliance'
   clientID: 'f29fbc8333e4d996b6d8'
-  clientSecret: 'e6983f2d40b0897b3a13dd9078a72dd7c98ac31c'
-  #shade: true # 遮罩
+  clientSecret: 'a0d3017cfc0de018bf3088529d980cfe22fdc448'
+  shade: true # 遮罩
   #enableHotKey: true #启用热键（cmd | ctrl + enter）提交评论
