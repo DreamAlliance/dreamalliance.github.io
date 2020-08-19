@@ -19,3 +19,9 @@ theme-dark: false #Set to true to change to dark website theme
 plugins: [jekyll-paginate, kramdown]
 # Build settings
 markdown: kramdown
+
+# Gitalk settings
+comment_gitalk_clientId: 93f02e8c124dc0f6ad59
+comment_gitalk_clientSecret: 390d653c8769372df411dab3f8ff7719b6ae6b67
+comment_gitalk_repo: blog_issues
+github_username: DreamAlliance
