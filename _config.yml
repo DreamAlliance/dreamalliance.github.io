@@ -20,14 +20,8 @@ plugins: [jekyll-paginate, kramdown]
 # Build settings
 markdown: kramdown
 
-#gitalk settings
-gitalk:
-  enable: true #用来做启用判断可以不用
-  mint: false # 这里一定要设置成false
-  owner: 'Peter-Zhifei'
-  repo: 'Alliance_issues' #例：safranyu.github.io
-  admin: 'Peter-Zhifei'
-  clientID: 'f29fbc8333e4d996b6d8'
-  clientSecret: '14f464f51df049b5162290f12527e65d8be9536e'
-  shade: true # 遮罩
-  #enableHotKey: true #启用热键（cmd | ctrl + enter）提交评论
+# Gitalk settings
+comment_gitalk_clientId: 'f29fbc8333e4d996b6d8'
+comment_gitalk_clientSecret: '14f464f51df049b5162290f12527e65d8be9536e'
+comment_gitalk_repo: Alliance_issues
+github_username: Peter-Zhifei
