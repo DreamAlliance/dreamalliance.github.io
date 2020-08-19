@@ -22,6 +22,6 @@ author: "胖鸡酱排骨"
 
 ![icomgx](https://dream-alliance.gitee.io/img/members/icomgx.JPG){:width="20"} [啊泰iCOMgx-程序设计](https://icomgx.cn/)
 
-![AilansKudoShinichi](https://dream-alliance.gitee.io/img/members/AilansKudoShinichi.JPG){:width="20"} [爱兰的工藤新一-硬件设计](https://github.com/AilansKudoShinichi)
+![AilansKudoShinichi](https://dream-alliance.gitee.io/img/members/AilansKudoShinichi.jpg){:width="20"} [爱兰的工藤新一-硬件设计](https://github.com/AilansKudoShinichi)
 
 ![pangchicken](https://dream-alliance.gitee.io/img/members/pangchicken.JPG){:width="20"} [胖鸡打酱油-文案](https://panzhifei.xyz/)
