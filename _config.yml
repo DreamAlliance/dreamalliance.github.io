@@ -23,5 +23,5 @@ markdown: kramdown
 # Gitalk settings
 comment_gitalk_clientId: 'f29fbc8333e4d996b6d8'
 comment_gitalk_clientSecret: 'c06976a4fdecc06fac887d39e919a76a9c1c9c3e'
-comment_gitalk_repo: dreamalliance.github.io
-github_username: DreamAlliance
+comment_gitalk_repo: 'dreamalliance.github.io'
+github_username: 'DreamAlliance'
