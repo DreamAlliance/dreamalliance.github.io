@@ -20,12 +20,8 @@ plugins: [jekyll-paginate, kramdown]
 # Build settings
 markdown: kramdown
 
-# Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: f29fbc8333e4d996b6d8     #生成的clientID
-  clientSecret: 4e597a65bbee8e9ba63f1d1cfb45335e0a743df3   #生成的clientSecret
-  repo: blog_issues    #仓库名称
-  owner: DreamAlliance   #github用户名
-  admin: DreamAlliance
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+# Gitalk settings
+comment_gitalk_clientId: f29fbc8333e4d996b6d8
+comment_gitalk_clientSecret: 4e597a65bbee8e9ba63f1d1cfb45335e0a743df3
+comment_gitalk_repo: dreamalliance.github.io
+github_username: DreamAlliance
