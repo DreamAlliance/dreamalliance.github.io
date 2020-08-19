@@ -21,7 +21,7 @@ plugins: [jekyll-paginate, kramdown]
 markdown: kramdown
 
 # Gitalk settings
-comment_gitalk_clientId: f29fbc8333e4d996b6d8
-comment_gitalk_clientSecret: 30d731ae5eab5a9f42087a86003c5cf1d37d204d
-comment_gitalk_repo: blog_issues
-github_username: DreamAlliance
+comment_gitalk_clientId: 'f29fbc8333e4d996b6d8'
+comment_gitalk_clientSecret: '30d731ae5eab5a9f42087a86003c5cf1d37d204d'
+comment_gitalk_repo: 'blog_issues'
+github_username: 'DreamAlliance'
