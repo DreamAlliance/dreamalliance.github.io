@@ -18,11 +18,13 @@ author: "胖鸡酱排骨"
 
 ![icomgx](https://dream-alliance.gitee.io/img/members/icomgx.JPG){:width="20"} [啊泰iCOMgx·成员](https://icomgx.cn/)
 
-![pangchicken](https://dream-alliance.gitee.io/img/members/pangchicken.JPG){:width="20"} [胖鸡酱·成员](https://panzhifei.xyz/)
+![AilansKudoShinichi](https://dream-alliance.gitee.io/img/members/AilansKudoShinichi.JPG){:width="20"} [爱兰的工藤新一·成员](https://github.com/AilansKudoShinichi)
+
+![pangchicken](https://dream-alliance.gitee.io/img/members/pangchicken.JPG){:width="20"} [胖鸡酱排骨·成员](https://panzhifei.xyz/)
 
 # Projects
 
-None
+ - [AWTRIX2.0 Controller ESP32](https://gitee.com/Dream-Alliance/AWTRIX2.0-Controller-ESP32/)
 
 # Others
 
