@@ -19,10 +19,10 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
     <!-- Gitalk start -->
-<div id="gitalk-container"></div> <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
-<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script> 
-<script>
-    var gitalk  = new Gitalk ({
+    <div id="gitalk-container"></div> <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+    <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script> 
+    <script>
+      var gitalk  = new Gitalk ({
         id: window.location.pathname,   // Ensure uniqueness and length less than 50
         clientID: '{ {site.comment_gitalk_clientId} }',
         clientSecret: '{ {site.comment_gitalk_clientSecret} }',
@@ -30,10 +30,10 @@ layout: default
         owner: '{ {site.github_username} }',
         admin: ['{ {site.github_username} }'],
 		    distractionFreeMode: false  // Facebook-like distraction free mode
-    })
-    gitalk.render('gitalk-container')
-</script> 
-<!-- Gitalk end -->
+      })
+      gitalk.render('gitalk-container')
+    </script> 
+    <!-- Gitalk end -->
   </div>
 
   <footer class="postNavigation">
