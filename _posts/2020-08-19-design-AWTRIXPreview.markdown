@@ -8,13 +8,13 @@ author: "胖鸡酱排骨"
 
 # 一个全新的AWTRIX控制器项目
 
+<iframe  width=600 src="//player.bilibili.com/player.html?aid=711791901&bvid=BV1mD4y127Ar&cid=226023915&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 ![](https://dream-alliance.gitee.io/img/2020/08/19/1.jpg)
 
 ![](https://dream-alliance.gitee.io/img/2020/08/19/2.jpg)
 
 ![](https://dream-alliance.gitee.io/img/2020/08/19/3.jpg)
-
-<iframe src="//player.bilibili.com/player.html?aid=711791901&bvid=BV1mD4y127Ar&cid=226023915&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 # 参与贡献
 
