@@ -2,7 +2,7 @@
 layout: post
 title:  "Stories : Dream Alliance"
 date:   2020-06-16 19:45:31 +0800
-categories: ["design"]
+categories: ["story"]
 author: "胖鸡酱排骨"
 ---
 
