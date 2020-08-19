@@ -1,9 +1,12 @@
 ---
-layout: post
-title:  "AWTRIX2.0 ESP32控制器项目预告"
-date:   2020-08-19 12:00:00 +0800
-categories: ["design"]
-author: "胖鸡酱排骨"
+layout:     post
+title:      全新AWTRIX2.0控制器项目预告
+subtitle:   A bird in the hand is worth two in the bush.
+date:       2020-08-19
+author:     胖鸡酱
+catalog: true
+tags:
+    - AWTRIX
 ---
 
 # 一个全新的AWTRIX控制器项目
