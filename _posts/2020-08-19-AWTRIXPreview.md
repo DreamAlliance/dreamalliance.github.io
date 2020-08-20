@@ -21,10 +21,10 @@ tags:
 
 # 参与贡献
 
-![dreamc](https://dream-alliance.gitee.io/img/members/dreamc.JPG){:width="60"} <center> <a href="https://www.dreamcstudio.cn/">梦程MI·发起人</a> </center>
+![dreamc](https://dream-alliance.gitee.io/img/members/dreamc.JPG){:width="80"} <center> <a href="https://www.dreamcstudio.cn/">梦程MI·发起人</a> </center>
 
-![icomgx](https://dream-alliance.gitee.io/img/members/icomgx.JPG){:width="60"} <center>  <a href="https://icomgx.cn/">啊泰iCOMgx·软件设计</a> </center>
+![icomgx](https://dream-alliance.gitee.io/img/members/icomgx.JPG){:width="80"} <center>  <a href="https://icomgx.cn/">啊泰iCOMgx·软件设计</a> </center>
 
-![AilansKudoShinichi](https://dream-alliance.gitee.io/img/members/AilansKudoShinichi.jpg){:width="60"} <center> <a href="https://github.com/AilansKudoShinichi">爱兰的工藤新一·硬件设计</a> </center>
+![AilansKudoShinichi](https://dream-alliance.gitee.io/img/members/AilansKudoShinichi.jpg){:width="80"} <center> <a href="https://github.com/AilansKudoShinichi">爱兰的工藤新一·硬件设计</a> </center>
 
-![pangchicken](https://dream-alliance.gitee.io/img/members/pangchicken.JPG){:width="60"} <center> <a href="https://panzhifei.xyz/">胖鸡打酱油·前端/文案</a> </center>
+![pangchicken](https://dream-alliance.gitee.io/img/members/pangchicken.JPG){:width="80"} <center> <a href="https://panzhifei.xyz/">胖鸡打酱油·前端/文案</a> </center>
